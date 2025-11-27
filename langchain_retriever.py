@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyA9JLg-Vq-tNDm8cWduBpA5uvRyV1D7l3g"
+os.environ["GOOGLE_API_KEY"] = "API_KEY"
 
 !pip install langchain chromadb faiss-cpu openai tiktoken langchain_google_genai  langchain-community wikipedia langchain_huggingface
 
